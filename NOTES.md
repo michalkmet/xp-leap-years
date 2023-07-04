@@ -22,4 +22,4 @@ Examples can be found in the test fixture.
 - ✅ TODO it should return false when given 100
 - ✅ TODO it should return true when given 400
 - ✅ TODO it should return true when given 2000
-- ⚠ TODO it should return false when given 2001
+- ✅ TODO it should return false when given 2001
