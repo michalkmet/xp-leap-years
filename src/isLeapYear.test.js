@@ -13,4 +13,7 @@ describe('isLeapYear', () => {
   it('should return true when given 400', () => {
     expect(isLeapYear(400)).toBe(true);
   });
+  it('should return true when given 2000', () => {
+    expect(isLeapYear(2000)).toBe(true);
+  });
 });
