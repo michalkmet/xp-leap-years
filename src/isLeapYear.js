@@ -1,5 +1,5 @@
 function isLeapYear() {
-  return 'isLeapYear';
+  return false;
 }
 
 module.exports = isLeapYear;
